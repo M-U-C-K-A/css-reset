@@ -7,7 +7,7 @@ Un ensemble de styles de réinitialisation CSS pour démarrer rapidement vos pro
 Clonez ce repo et intégrez le fichier CSS dans votre projet.
 
 ```bash
-git clone https://github.com/M-UC-K-A/CSS-RESET.git
+git clone https://github.com/M-U-C-K-A/CSS-RESET.git
 ```
 
 ## Utilisation
